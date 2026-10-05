@@ -1,0 +1,15 @@
+factor,avg_rating_satisfied,avg_rating_unsatisfied,rating_gap,driver_rank
+"Online Boarding",4.15,2.71,1.44,1
+"In-flight Entertainment",3.96,2.89,1.07,2
+"In-flight Wifi",3.39,2.40,0.99,3
+"Seat Comfort",3.97,3.04,0.93,4
+"On-board Service",3.86,3.02,0.84,5
+"Leg Room",3.83,3.01,0.82,6
+Cleanliness,3.75,2.93,0.82,6
+"Ease of Online Booking",3.24,2.62,0.62,8
+"Check-in Service",3.65,3.04,0.61,9
+"Baggage Handling",3.97,3.37,0.60,10
+"In-flight Service",3.97,3.39,0.58,11
+"Food and Drink",3.53,2.96,0.57,12
+"Gate Location",2.97,2.98,-0.01,13
+"Departure/Arrival Time Convenience",3.14,3.29,-0.15,14

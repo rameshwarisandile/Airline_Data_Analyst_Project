@@ -1,0 +1,8 @@
+segment_type,segment,passengers,satisfied_pct
+Class,Business,62160,69.44
+Class,Economy,58309,18.77
+Class,"Economy Plus",9411,24.64
+"Travel purpose",Business,89693,58.37
+"Travel purpose",Personal,40187,10.13
+"Customer type",First-time,23780,23.97
+"Customer type",Returning,106100,47.81

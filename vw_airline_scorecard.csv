@@ -1,0 +1,15 @@
+airline_name,total_flights,cancellation_rate_pct,delayed_pct,avg_departure_delay_min
+"United Air Lines Inc.",515723,1.27,19.95,14.4
+"American Airlines Inc.",725984,1.50,17.57,8.9
+"US Airways Inc.",198715,2.05,17.98,6.1
+"Frontier Airlines Inc.",90836,0.65,25.36,13.4
+"JetBlue Airways",267048,1.60,21.85,11.5
+"Skywest Airlines Inc.",588353,1.69,18.00,7.8
+"Alaska Airlines Inc.",172521,0.39,12.34,1.8
+"Spirit Air Lines",117379,1.71,28.79,15.9
+"Southwest Airlines Co.",1261855,1.27,18.30,10.6
+"Delta Air Lines Inc.",875881,0.44,13.00,7.4
+"Atlantic Southeast Airlines",571977,2.66,18.99,8.7
+"Hawaiian Airlines Inc.",76272,0.22,10.53,0.5
+"American Eagle Airlines Inc.",294632,5.10,21.03,10.1
+"Virgin America",61903,0.86,18.53,9.0
